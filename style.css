@@ -1,0 +1,78 @@
+.main{
+ display: flex;
+ 
+
+ justify-content: center;
+ text-transform: capitalize;
+ margin: 10px;
+}
+.one:hover{
+background-color: rgba(0, 255, 255, 0.457);
+}
+.one:hover .head{
+    color: black;
+}
+.one:hover .bigicon{
+    color: gray;
+}
+.one:hover .logo{
+    color: brown;
+}
+
+.one
+{
+    padding-top: 10px;
+padding-bottom: 40px;
+    background-color: rgb(41, 41, 41);
+}
+.bigicon{
+    text-align: center;
+    font-size: 40px;
+color: aqua;
+}
+.head{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+color: white;
+}
+.logo{
+    text-align: center;
+font-size: 20px;
+color: gray;
+}
+.para{
+    font-size: 23px;
+    text-align: center;
+    color: rgb(149, 149, 149);
+}
+.space{
+    margin: 2px;
+}
+.main2{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: rgb(41, 41, 41);
+    color: white;
+    text-transform: capitalize;
+}
+.container{
+    display: flex;
+
+}
+
+.idea i{
+
+    font-size: 50px;
+color: rgb(125, 12, 224);
+
+}
+.lknc{
+    align-content:;
+    flex-flow:
+    justify-content:;
+    flex-direction: ;
+align-items: ;
+}
+
+
